@@ -34,7 +34,7 @@ Main quantities:
 - TEGR torsion scalar
 
 
-### `blackhole_lorentz_covarience.py`
+### `local_lorentz_covarience.py`
 
 Tests Lorentz covariance properties of radial shift tetrads in teleparallel gravity.
 
@@ -45,7 +45,7 @@ Includes:
 - covariance consistency checks
 
 
-### `black_hole_torsiyon_invaryantları.py`
+### `torsion_scalar.py`
 
 Computes the torsion scalar for generic and radial shift configurations.
 
